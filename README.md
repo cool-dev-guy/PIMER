@@ -8,6 +8,9 @@ Python Image Manipulation(Light weight,Multiprocessed,Memmory Managed &amp; GPU 
 
 
 ## Features
+<p align="center">
+  <img src="https://github.com/cool-dev-guy/PIMR/blob/main/app1.png" width="70%" />
+</p>
 
 - dark mode,wonderful UI.
 - GPU accelerated(Opengl & Skia)(Vulkan comming soon).
