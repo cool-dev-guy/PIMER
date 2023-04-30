@@ -1,8 +1,8 @@
 ![Logo](https://github.com/cool-dev-guy/PIMR/blob/main/PIMR.png)
 `Beta`
 <p align="center">
-<h1> PIMER</h1>
-Python Image Manipulation(Light weight,Multiprocessed,Memmory Managed &amp; GPU accelerated )
+<h1> PIMER (PIMP)</h1>
+Python Image Manipulation Program (Light weight,Multiprocessed,Memmory Managed &amp; GPU accelerated )
 </p>
 
 
