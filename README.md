@@ -9,8 +9,8 @@ Python Image Manipulation Program (Light weight,Multiprocessed,Memmory Managed &
 
 ## Features
 <p align="center">
-  <img src="https://github.com/cool-dev-guy/PIMR/blob/main/app1.png" width="70%" />
-  <img src="https://user-images.githubusercontent.com/116984615/235341807-ae56b473-8c66-44dd-8589-9333b9f03bb3.png" width="70%" />
+  <img src="https://github.com/cool-dev-guy/PIMR/blob/main/app1.png" width="50%" />
+  <img src="https://user-images.githubusercontent.com/116984615/235341807-ae56b473-8c66-44dd-8589-9333b9f03bb3.png" width="50%" />
   
 </p>
 
